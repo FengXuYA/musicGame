@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "66a3eeda-2bd6-4b16-8c3a-5eda22841950",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 500,
+  "platformSettings": {},
+  "subMetas": {
+    "musicArea2": {
+      "ver": "1.0.4",
+      "uuid": "cb7964c5-dba0-426b-b19a-11abc35296b8",
+      "rawTextureUuid": "66a3eeda-2bd6-4b16-8c3a-5eda22841950",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 7.5,
+      "offsetY": 13.5,
+      "trimX": 40,
+      "trimY": 166,
+      "width": 435,
+      "height": 141,
+      "rawWidth": 500,
+      "rawHeight": 500,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

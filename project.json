@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "musicGame",
+  "uuid": "1389996e-08e7-4cc3-9072-3eb891eb5778",
+  "version": "2.3.3",
+  "id": "d49da700-d56f-425d-94b6-f80e33a14dd4",
+  "isNew": false
+}

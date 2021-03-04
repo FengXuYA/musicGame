@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "judgeLine",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.55,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": -225
+        },
+        {
+          "frame": 4.5,
+          "value": 225
+        },
+        {
+          "frame": 4.533333333333333,
+          "value": 240
+        },
+        {
+          "frame": 4.55,
+          "value": -225
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 255
+        },
+        {
+          "frame": 4.5,
+          "value": 255
+        },
+        {
+          "frame": 4.516666666666667,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}
